@@ -1,0 +1,7 @@
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\bin\Debug\Proyecto 1.exe.config
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\bin\Debug\Proyecto 1.exe
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\bin\Debug\Proyecto 1.pdb
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\obj\Debug\Proyecto 1.csproj.AssemblyReference.cache
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\obj\Debug\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\obj\Debug\Proyecto 1.exe
+C:\Users\mela0\OneDrive\Escritorio\proyecto1 estructura\Proyecto 1\obj\Debug\Proyecto 1.pdb
